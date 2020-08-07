@@ -57,8 +57,8 @@ Demo of multi-user virtual world made from IPFS, Fleek, ENS, and 3D scan of a ha
 
 Lets visualize the IPFS ecosystem into a virtual world that we can build and explore together!
 
-**Github: https://github.com/madjin/ipfs-ecosystem**
-**Assets: https://github.com/M3-org/assets** - Booth templates are here
+- **Github: https://github.com/madjin/ipfs-ecosystem**
+- **Assets: https://github.com/M3-org/assets** - Booth templates are here
 
 ---
 
