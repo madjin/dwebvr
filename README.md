@@ -46,7 +46,7 @@ Demo of multi-user virtual world made from IPFS, Fleek, ENS, and 3D scan of a ha
 
 ### Internet Archive
 
-**Github: 
+**Github: https://madjin.github.io/internet-archive-vr/**
 
 - JanusXR
   - https://archive.on.fleek.co/indoor/
